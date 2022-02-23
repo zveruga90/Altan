@@ -79,4 +79,4 @@ rest = math.sqrt (100)
 
 # print (res_1)
 # print(res_2)
-print(res)
+# print(res)
