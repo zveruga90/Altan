@@ -79,8 +79,8 @@ a = 10
 
 # primer "konsolnyi kalkulyator"
 
-num_1 = int(input("vvedite pervoie chislo"))
-num_2 = int(input("vvedite vtoroie chislo"))
+num_1 = int(input("vvedite pervoie chislo: " ))
+num_2 = int(input("vvedite vtoroie chislo: " ))
 
 operator = input("vvedite simvol operatsii: ")
 
